@@ -35,6 +35,7 @@ main {
     width: 75%;
     padding: 10% 5% 5% 5%;
     margin: auto;
+    text-align: center;
 }
 
 h1 {
@@ -43,41 +44,8 @@ h1 {
     padding-bottom: 30px;
 }
 
-h2 {
-    font-family: 'Salsa', cursive;
-    font-size: 25pt;
-    padding-bottom: 30px;
-    padding-top: 50px;
-}
-
-section {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-#presentacion {
-    padding-left: 100px;
-}
-
-img {
-    width: 400px;
-    height: 533px;
-    border-radius: 20px;
-    
-}
-
-p {
-    padding: 10px;
-}
-
 #tani {
     width: 100%;
     height: 45px;
     border-radius: 0px;
-}
-
-ul {
-    padding-left: 30px;
-
 }
