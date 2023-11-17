@@ -32,13 +32,9 @@ a:hover {
 }
 
 main {
-    width: 70%;
-    padding: 10% 5% 10% 5%;
+    width: 80%;
+    padding: 10% 5% 5% 5%;
     margin: auto;
-}
-
-article {
-    text-align: center;
 }
 
 h1 {
@@ -50,7 +46,8 @@ h1 {
 h2 {
     font-family: 'Salsa', cursive;
     font-size: 25pt;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+    padding-top: 50px;
 }
 
 section {
@@ -59,17 +56,29 @@ section {
     align-items: center;
 }
 
-
 #presentacion {
     padding-left: 100px;
+    padding-right: 130px;
 }
-
 
 img {
     width: 400px;
     height: 533px;
+    border-radius: 20px;
+    
 }
 
 p {
     padding: 10px;
+}
+
+#tani {
+    width: 100%;
+    height: 45px;
+    border-radius: 0px;
+}
+
+ul {
+    padding-left: 30px;
+
 }
