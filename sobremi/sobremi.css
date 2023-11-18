@@ -79,7 +79,7 @@ section {
     padding-left: 100px;
 }
 
-img {
+.yo {
     width: 400px;
     height: 533px;
     border-radius: 20px;
@@ -104,4 +104,8 @@ ul {
 h4 {
     padding-top: 50px;
 
+}
+
+img {
+    width: 100%;
 }

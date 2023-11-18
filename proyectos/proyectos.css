@@ -85,3 +85,7 @@ section {
 .proyecto:hover {
     filter: grayscale(30%);
 }
+
+img {
+    width: 100%;
+}
