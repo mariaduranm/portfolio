@@ -16,6 +16,25 @@ header {
     background-color: rgb(132, 168, 227);
     padding: 15px;
     position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#cabecera {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 40px;
+}
+
+
+h5 {
+    font-family: 'Salsa', cursive;
+    font-weight: bold;
+    font-size: 18pt;
+    padding-right: 20px;
+    color: rgb(255, 255, 255);
 }
 
 a {
@@ -79,5 +98,10 @@ p {
 
 ul {
     padding-left: 30px;
+
+}
+
+h4 {
+    padding-top: 50px;
 
 }
