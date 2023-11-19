@@ -68,6 +68,26 @@ h1 {
     width: 100%;
 }
 
+#trestildes {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+.b {
+    background-color: rgb(255, 255, 255);
+    color: rgb(132, 168, 227);
+    border-radius: 20px;
+    font-size: 17pt;
+}
+
+.b:hover {
+    font-weight: bolder;
+}
+
 #inferior {
     margin: auto;
     display: flex;
